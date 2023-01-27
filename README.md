@@ -22,7 +22,7 @@
 
 - JavaScript
   - Conditional (ternary) operator: [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
-  - Template literals (Template strings): [mdn]](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals), [w3schools](https://www.w3schools.com/JS//js_string_templates.asp)
+  - Template literals (Template strings): [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals), [w3schools](https://www.w3schools.com/JS//js_string_templates.asp)
   - forEach()[mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach), [w3schools](https://www.w3schools.com/jsref/jsref_forEach.asp)
 - DOM
   - [DOM vs BOM](https://medium.com/geekculture/difference-between-bom-and-dom-in-javascript-5c8317c5c1d2)
