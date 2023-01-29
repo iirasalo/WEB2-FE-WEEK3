@@ -50,8 +50,22 @@ When the "Larger links!" button is clicked, the text of all links on the page sh
 ## Task2
 
 1. Name three CSS selectors.
+--> .class , #id , * (selects all), elements suchs as p.
+
 2. What is the difference between NodeList and Arrays?
+--> NodeLists are a language based way to access DOM elements whilst Arrays are a JavaScript objects that contains collections of information. Although NodeList is not an Array , it is possible to iterate over it with forEach().
+
 3. How can you convert a NodeList to an Array? Refer to `./src/demo.html`
+
+      // Select a nodeList:
+      const nodeList = document.querySelectorAll('p');
+      console.log(nodeList);
+
+      //Nodelist to array:
+      const array = Array.from(nodeList);
+      console.log(array);
+
+  --> Select all elements (make a nodelist) and create an array using the selection: Arra.from(nodeList); (Nodelist to array).
 
 ## Links
 
